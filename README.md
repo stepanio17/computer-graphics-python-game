@@ -45,4 +45,4 @@
 ```bash
 git clone https://github.com/stepanio17/computer-graphics-python-game.git
 cd computer-graphics-python-game
-pip install pygame
+pip install -r reqiurements.txt
